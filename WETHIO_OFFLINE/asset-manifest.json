@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c9c643a8.chunk.css",
+    "main.js": "./static/js/main.507418c9.chunk.js",
+    "main.js.map": "./static/js/main.507418c9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ba55a429.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ba55a429.js.map",
+    "static/css/2.123f092d.chunk.css": "./static/css/2.123f092d.chunk.css",
+    "static/js/2.a9ac4ec2.chunk.js": "./static/js/2.a9ac4ec2.chunk.js",
+    "static/js/2.a9ac4ec2.chunk.js.map": "./static/js/2.a9ac4ec2.chunk.js.map",
+    "static/js/3.a3565fde.chunk.js": "./static/js/3.a3565fde.chunk.js",
+    "static/js/3.a3565fde.chunk.js.map": "./static/js/3.a3565fde.chunk.js.map",
+    "static/js/4.131d6619.chunk.js": "./static/js/4.131d6619.chunk.js",
+    "static/js/4.131d6619.chunk.js.map": "./static/js/4.131d6619.chunk.js.map",
+    "static/js/5.2062da73.chunk.js": "./static/js/5.2062da73.chunk.js",
+    "static/js/5.2062da73.chunk.js.map": "./static/js/5.2062da73.chunk.js.map",
+    "static/js/6.e84fe20d.chunk.js": "./static/js/6.e84fe20d.chunk.js",
+    "static/js/6.e84fe20d.chunk.js.map": "./static/js/6.e84fe20d.chunk.js.map",
+    "static/js/7.fa987d5d.chunk.js": "./static/js/7.fa987d5d.chunk.js",
+    "static/js/7.fa987d5d.chunk.js.map": "./static/js/7.fa987d5d.chunk.js.map",
+    "static/js/8.57a0a6d5.chunk.js": "./static/js/8.57a0a6d5.chunk.js",
+    "static/js/8.57a0a6d5.chunk.js.map": "./static/js/8.57a0a6d5.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.123f092d.chunk.css.map": "./static/css/2.123f092d.chunk.css.map",
+    "static/css/main.c9c643a8.chunk.css.map": "./static/css/main.c9c643a8.chunk.css.map",
+    "static/js/2.a9ac4ec2.chunk.js.LICENSE.txt": "./static/js/2.a9ac4ec2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/Gilroy-UltraLight.768c44ec.ttf",
+    "static/media/LOGO1.5b6c6e57.png": "./static/media/LOGO1.5b6c6e57.png",
+    "static/media/addfile.bfb241e6.png": "./static/media/addfile.bfb241e6.png",
+    "static/media/key.3a957693.png": "./static/media/key.3a957693.png",
+    "static/media/thumbnail.599b8fa8.png": "./static/media/thumbnail.599b8fa8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba55a429.js",
+    "static/css/2.123f092d.chunk.css",
+    "static/js/2.a9ac4ec2.chunk.js",
+    "static/css/main.c9c643a8.chunk.css",
+    "static/js/main.507418c9.chunk.js"
+  ]
+}
